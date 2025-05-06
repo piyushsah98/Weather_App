@@ -1,6 +1,26 @@
 # weather_app
 
-A new Flutter project.
+A Flutter-based weather forecasting app that provides real-time weather updates based on your **current location** using the **OpenWeatherMap API**.
+
+## Features
+
+- 🌍 Detects and uses current location for weather data
+-  Sows temperature in Celsius
+-  Displays sky conditions (Sunny, Rainy, Cloudy, etc.)
+-  Hourly weather forecast
+-  Additional info like Humidity, Wind Speed, and Pressure
+-  Refresh button for manual updates
+-  Light/Dark theme toggle
+
+## Tech Stack
+
+- **Flutter** (Dart)
+- **OpenWeatherMap API**
+- **Geolocator package** (for location services)
+- **HTTP package** (for API calls)
+
+## Screenshots
+ 
 
 ## Getting Started
 
