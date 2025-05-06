@@ -20,12 +20,11 @@ A Flutter-based weather forecasting app that provides real-time weather updates 
 - **HTTP package** (for API calls)
 
 ## Screenshots
-Dark Mode
-![Image alt](https://github.com/piyushsah98/Weather_App/blob/main/Weather_App_Dark.jpg?raw=true)
+<p align="center">
+  <img src="Weather_App_Light.jpg" alt="Light Theme" width="200"/>
+  <img src="Weather_App_Dark.jpg" alt="Dark Theme" width="200"/>
+</p>
 
-Light Mode
-![Image alt](https://github.com/piyushsah98/Weather_App/blob/main/Weather_App_Light.jpg?raw=true)
- 
 
 ## Getting Started
 
