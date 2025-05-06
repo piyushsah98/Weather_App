@@ -21,7 +21,7 @@ A Flutter-based weather forecasting app that provides real-time weather updates 
 
 ## Screenshots
 <p align="center">
-  <img src="Weather_App_Light.jpg" alt="Light Theme" width="200"/>
+  <img src="Weather_App_Light.jpg" alt="Light Theme" width="200" style="margin-right: 25px;"/>
   <img src="Weather_App_Dark.jpg" alt="Dark Theme" width="200"/>
 </p>
 
